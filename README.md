@@ -1,3 +1,4 @@
 ## STIRLICO 🐸
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=STIRLICO)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=STIRLICO&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=STIRLICO&theme=dark)
