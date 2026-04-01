@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio" height="50" alt="robloxstudio logo"  />
+  <img width="12" />
 </div> 
 
 <div align="center">
